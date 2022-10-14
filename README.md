@@ -1,2 +1,2 @@
 # Drive-VST3-JUCE
-Distortion. Follow with lowpass filter.
+Distortion. Works with Electric Bass. Follow with lowpass filter.
